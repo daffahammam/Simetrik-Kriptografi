@@ -1,2 +1,3 @@
 # Simetrik-Kriptografi
-Aplikasi SImetrik Kriptografi
+Aplikasi Simetrik Kriptografi
+Tugas Teknologi Keamananan Privasi Data 
